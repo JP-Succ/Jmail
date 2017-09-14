@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#DB4336</color>
+    <color name="colorPrimaryDark">#B8321F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorFondo">#B8321F</color>
+    <color name="coloreEncabezado">#DB4336</color>
+    <color name="coloreTexto">#FFF</color>
+    <color name="colorMensaje">#000000</color>
+</resources>

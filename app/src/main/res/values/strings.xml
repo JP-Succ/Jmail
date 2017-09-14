@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Jmail</string>
+    <string name="buscar">Buscar</string>
+    <string name="cerrar">Cerrar</string>
+    <string name="title_activity_mail">Detalle del correo</string>
+    <string name="refresh">Refrescar</string>
+</resources>
